@@ -1,0 +1,12 @@
+div.Nav-LinkGroup{
+    color: white;   
+    display: -webkit-flex;
+    display: flex;
+    -webkit-align-items: center;
+    align-items: center;
+    background-color: #272822;
+  }
+  .NavLink {
+      color: red;
+  }
+  
